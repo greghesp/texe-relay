@@ -1,5 +1,7 @@
 # Texe Relay
 
+> This is a WIP
+
 ## Introduction
 
 This is a Node Server that incorporates [Texecom Connect](https://github.com/davidMbrooke/texecom-connect) in to a Node Server, MQTT Broker and Client, all in one.
